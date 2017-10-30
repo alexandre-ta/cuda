@@ -1,0 +1,2 @@
+To run mpi executable, type command
+> mpirun -np 12 openmpi_test
